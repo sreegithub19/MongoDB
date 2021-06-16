@@ -1,9 +1,9 @@
 # MongoDB
-    # video link: https://www.youtube.com/watch?v=E-1xI85Zog8&t=358s
+    # Video <a href="https://www.youtube.com/watch?v=E-1xI85Zog8&t=358s">link</a>
     # code: https://github.com/mikeckennedy/mongodb-quickstart-course
     # to get the code: git clone https://github.com/mikeckennedy/mongodb-quickstart-course.git
     # https://www.mongodb.com/try/download/community - to download mongodb
-    # commands to run mongodb:
+    # Commands to run mongodb:
     #     tar xzf mongodb-macos-x86_64-4.4.6.tgz
     #     sudo mv mongodb-macos-x86_64-4.4.6 /usr/local/mongodb
     #     cd /usr/local/mongodb
